@@ -17,10 +17,10 @@ W = Move player forward
 A = Move player to the left  
 S = Move player backward  
 D = Move player to the right  
-P = Pause Game	
-E = Open shop from in game	
-K = increase health, used for debugging	
-J = decrease health, used for debugging	
+P = Pause Game  
+E = Open shop from in game  
+K = increase health, used for debugging  
+J = decrease health, used for debugging  
 
 
 # About the game
