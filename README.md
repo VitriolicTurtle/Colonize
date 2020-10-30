@@ -12,7 +12,7 @@ Game jam theme: Colonize
 
 # How to run:
   
-Executeable file provided in goodle drive.  
+Executeable file provided in google drive.  
 Link: https://drive.google.com/file/d/1e6P9lcobvfF-na2f92nzxv_DyW2uaMPb/view?usp=sharing
   
 **How to: Compile the game yourself**  
@@ -20,6 +20,8 @@ It's recomended that you just download the executable with the provided link abo
 Download and install Unreal Engine 4.25.3.  
 git clone the repo  
 Open Unreal engine and in recent project choose browse and navigate to ViralColonizer.uproject  
+When unreal ask you to build the project press yes.  
+If starterContent gets auto added by unreal delete the folder. You might have to restart unreal to be able to delete the files in the folder.  
 Then follow Unreal's documentation which is provided here: https://docs.unrealengine.com/en-US/Engine/Basics/Projects/Packaging/index.html  
 
   
