@@ -8,7 +8,7 @@ Game jam theme: Colonize
     Vegard Opktivtne Årnes             vegardoa         vegardoa@stud.ntnu.no	        
 	Andreas Blakli                     andrbl           andrbl@stud.ntnu.no	
 	Theo Camille Gascogne              theocg           theocg@stud.ntnu.no	
-	Jesper Ulsrud                      jesperu          jesperu@stud.ntnu	
+	Jesper Ulsrud                      jesperu          jesperu@stud.ntnu.no	
 
 # How to run:
   
