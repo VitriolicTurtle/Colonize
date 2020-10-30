@@ -16,7 +16,7 @@ Executeable file provided in google drive.
 Link: https://drive.google.com/file/d/1e6P9lcobvfF-na2f92nzxv_DyW2uaMPb/view?usp=sharing
   
 **How to: Compile the game yourself**  
-It's recomended that you just download the executable with the provided link above, but if you want to do it yoursefl this is how.  
+It's recomended that you just download the executable with the provided link above, but if you want to do it yourself this is how.  
 Download and install Unreal Engine 4.25.3.  
 git clone the repo  
 Open Unreal engine and in recent project choose browse and navigate to ViralColonizer.uproject  
