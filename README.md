@@ -1,7 +1,7 @@
 # Rapid prototyping Group Project
   
 Game name: Colonize  
-Game engine: Unreal Engine 4.24.3  
+Game engine: Unreal Engine 4.25.3  
 Game jam theme: Colonize  
   
 # Group Members:     
@@ -12,12 +12,12 @@ Game jam theme: Colonize
 
 # How to run:
   
-Executeable file provided in goodle drive	
+Executeable file provided in goodle drive.  
 Link: https://drive.google.com/file/d/1e6P9lcobvfF-na2f92nzxv_DyW2uaMPb/view?usp=sharing
-
+  
 **How to: Compile the game yourself**  
 It's recomended that you just download the executable with the provided link above, but if you want to do it yoursefl this is how.  
-Download and install Unreal Engine 4.23.3.  
+Download and install Unreal Engine 4.25.3.  
 git clone the repo  
 Open Unreal engine and in recent project choose browse and navigate to ViralColonizer.uproject  
 Then follow Unreal's documentation which is provided here: https://docs.unrealengine.com/en-US/Engine/Basics/Projects/Packaging/index.html  
@@ -38,6 +38,8 @@ P = Pause Game
 E = Open shop from in game  
 K = increase health, used for debugging  
 J = decrease health, used for debugging  
+  
+LeftMouseClick is used to select menu items.  
   
 
 # About the game
